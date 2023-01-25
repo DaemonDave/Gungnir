@@ -15,9 +15,15 @@ Project Folder Structure
 
 This folder structure includes the following generic:
 
-Requirements
-Specifications
 Hardware
-Software
 Firmware
 Design
+Reports
+Requirements
+Software
+Specifications
+Standards
+Testing
+
+
+
