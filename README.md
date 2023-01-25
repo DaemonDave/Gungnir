@@ -26,4 +26,11 @@ Standards
 Testing
 
 
+Project Terms and Conditions 
+EvergentTek holds the exclusive Integration and Test contract for all prototypes developed under the
+Collaborative EvergentTek Ironclad Project Terms and Conditions; they are found here: https://github.com/DaemonDave/Gungnir/blob/main/terms_and_conditions.txt
+
+
+
+
 
