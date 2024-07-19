@@ -13,6 +13,9 @@ Hopper mounts * 2 ( or serveral for differing unmixed stock)
 MCU * 1
 MCU Harness
 Lateral Bracing
+Hanging Trolley Wheels
+Custom Hanging Trolley hardware basedon raceway
+U or O shaped Raceways/ or square metal stock of various lengths.
 Mounting Hardware
 Handcart
 Mounting Board
